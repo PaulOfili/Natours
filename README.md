@@ -1,2 +1,2 @@
 # Natours
- A tour website template made with pure CSS without any framework
+ A tour booking website template made with pure CSS without any framework
